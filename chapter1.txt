@@ -1,2 +1,6 @@
 Este é o minha primeiro capítulo
+<<<<<<< HEAD
 --Aqui é Branch Master
+=======
+Nova Linha
+>>>>>>> novo-capitulo
